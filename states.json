@@ -1,18 +1,18 @@
 [
   {
-      "key": "Palace",
+      "key": "PL",
       "latitude": 38.703348,
       "longitude": -9.186763,
       "name": "PESTANA PALACE",
     },
     {
-      "key": "Viseu",
+      "key": "VL",
       "latitude": 40.654591,
       "longitude": -7.912439,
       "name": "POUSADA VISEU",
     },
     {
-      "key": "Plisboa",
+      "key": "PT",
       "latitude": 38.708645,
       "longitude": -9.137750,
       "name": "POUSADA LISBOA",
