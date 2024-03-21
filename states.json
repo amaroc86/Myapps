@@ -1,14 +1,14 @@
 [
   {
-    "key": "PL",
-    "latitude": 38.703348,
+    "key": "SE",
+    "latitude": 60.128161,
     "longitude": 18.643501,
-    "name": "PESTANA PALACE"
+    "name": "Sweden"
   },
   {
-    "key": "VU",
-    "latitude": 40.654591,
-    "longitude": -7.912439,
-    "name": "POUSADA VISEU"
+    "key": "US",
+    "latitude": 37.09024,
+    "longitude": -95.712891,
+    "name": "United States"
   }
 ]
