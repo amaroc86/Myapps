@@ -1,14 +1,22 @@
+
 [
-  {
-    "key": "SE",
-    "latitude": 60.128161,
-    "longitude": 18.643501,
-    "name": "Sweden"
-  },
-  {
-    "key": "US",
-    "latitude": 37.09024,
-    "longitude": -95.712891,
-    "name": "United States"
-  }
+    {
+      "key": "Palace",
+      "latitude": 38.703348804346724,
+      "longitude": -9.186763406425715,
+      "name": "PESTANA PALACE",
+    },
+    {
+      "key": "Viseu",
+      "latitude": 40.65459112461614,
+      "longitude": -7.912439338962167,
+      "name": "POUSADA VISEU",
+    },
+    {
+      "key": "Plisboa",
+      "latitude": 38.70864542787312,
+      "longitude": -9.137750571232056,
+      "name": "POUSADA LISBOA",
+    },
 ]
+
